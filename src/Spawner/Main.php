@@ -16,7 +16,7 @@ class Main extends PluginBase
     /**
      * @var int
      */
-    private static int $time = 12;
+    private static int $time = 128;
 
     /**
      * @var array|string[]
